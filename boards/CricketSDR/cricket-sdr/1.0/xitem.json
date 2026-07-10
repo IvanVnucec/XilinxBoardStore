@@ -1,0 +1,33 @@
+{
+  "config": {
+    "items": [
+      {
+        "infra": {
+          "name": "cricket-sdr",
+          "display": "CricketSDR",
+          "revision": "1.0",
+          "description": "CricketSDR Zynq Evaluation and Development Kit",
+          "company": "example.com",
+          "company_display": "Example Inc",
+          "author": "Ivan Vnucec",
+          "contributors": [
+            {
+              "group": "Example",
+              "url": "example.com"
+            }
+          ],
+          "category": "Single Part",
+          "website": "https://example.com",
+          "logo": "cricket_sdr.jpg",
+          "search-keywords": [
+            "CricketSDR",
+            "sdr",
+            "cricket"
+          ]
+        }
+      }
+    ]
+  },
+  "_major": 1,
+  "_minor": 0
+}
